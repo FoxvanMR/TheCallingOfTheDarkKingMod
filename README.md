@@ -1,9 +1,11 @@
-# TheCallingOfTheDarkKingMod
+# The Calling of the Dark King Mod
 Mod in development that currently add 4 new charms to the Hollow Knight game.
 
 State: Alpha 0.1.0 / In development
+.zip in Releases
 
 Estado: Alpha 0.1.0 / En desarrollo.
+.zip en Lanzamientos
 
 ## Requisitos / Requirements
 
