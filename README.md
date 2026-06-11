@@ -2,6 +2,7 @@
 Mod in development that currently add 4 new charms to the Hollow Knight game.
 
 State: Alpha 0.1.0 / In development
+
 Estado: Alpha 0.1.0 / En desarrollo.
 
 ## Requisitos / Requirements
@@ -40,6 +41,7 @@ ES:
 - Mod en desarrollo.
 - Corazón de Darkyrita: 
 	- A veces, al empezar una sesión de juego, la primera vez que se activa el escudo requiere un golpe adicional.
+
 EN:
 - Mod in development.
 - Darkyrite Heart:
