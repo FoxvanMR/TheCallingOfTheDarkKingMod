@@ -1,9 +1,9 @@
 # The Calling of the Dark King Mod
 Mod in development that currently add 4 new charms to the Hollow Knight game.
 
-State: Alpha 0.1.0 / In development
+State: Alpha 0.2.0 / In development
 
-Estado: Alpha 0.1.0 / En desarrollo.
+Estado: Alpha 0.2.0 / En desarrollo.
 
 .zip in Releases
 
@@ -18,33 +18,37 @@ Estado: Alpha 0.1.0 / En desarrollo.
 ES:
 Extrae la carpeta `TheCallingOfTheDarkKingMod` dentro de:
 `Hollow Knight/hollow_knight_Data/Managed/Mods/` (Si no existe, creala).
-Luego lanza el juego con Lumafly.
+Luego ejecuta el juego con Lumafly (ejecutar con mods).
 
 EN:
 Extract the `TheCallingOfTheDarkKingMod` folder into:
 `Hollow Knight/hollow_knight_Data/Managed/Mods/` (If it doesn't exist, create it).
-Then launch the game with Lumafly.
+Then launch the game with Lumafly (launch with mods).
 
 ## Contenido actual / Current content
 
 ES:
 - Añade 4 amuletos personalizados.
 	- Corazón de Darkyrita. Tiene efecto de escudo salvavidas.
+    - Restos Infectados. Deja una pequeña sombra explosiva detrás del jugador y explota al cabo de un tiempo.
 - El resto de amuletos aún no tienen efectos finales.
 
 EN:
 - Add 4 custom charms.
 	- Darkyrite Heart. It has a life-saving shield effect.
+    - Infected Remnant. Leaves a small explosive shadow behind the player and explodes after a short time.
 - The remaining charms do not yet have final effects.
 
 ## Bugs conocidos / Known bugs
 
 ES:
-- Mod en desarrollo.
+- General:
+	- Se necesita optimizar el mod.
 - Corazón de Darkyrita: 
-	- A veces, al empezar una sesión de juego, la primera vez que se activa el escudo requiere un golpe adicional.
+	- Al empezar una sesión del juego. El amuleto necesita un golpe adicional para activarse.
 
 EN:
-- Mod in development.
+- General:
+  	- Mod need optimizations.
 - Darkyrite Heart:
-	- Sometimes, when starting a game session, the first time the shield is activated, it requires an additional hit.
+	- At the start of a game session, the charm requires an additional hit to activate.
