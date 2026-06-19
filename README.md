@@ -1,9 +1,9 @@
 # The Calling of the Dark King Mod
 Mod in development that currently add 4 new charms to the Hollow Knight game.
 
-State: Alpha 0.2.0 / In development
+State: Alpha 0.2.1 / In development
 
-Estado: Alpha 0.2.0 / En desarrollo.
+Estado: Alpha 0.2.1 / En desarrollo.
 
 .zip in Releases
 
@@ -43,12 +43,8 @@ EN:
 
 ES:
 - General:
-	- Se necesita optimizar el mod.
-- Corazón de Darkyrita: 
-	- Al empezar una sesión del juego. El amuleto necesita un golpe adicional para activarse.
+	- El mod necesita optimizaciones.
 
 EN:
 - General:
   	- Mod need optimizations.
-- Darkyrite Heart:
-	- At the start of a game session, the charm requires an additional hit to activate.
