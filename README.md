@@ -4,8 +4,8 @@ Mod in development that currently add 4 new charms to the Hollow Knight game.
 
 Mod en desarrollo que actualmente añade 4 amuletos nuevos al juego Hollow Knight.
 
-- State: Alpha 0.3.0 / In development
-- Estado: Alpha 0.3.0 / En desarrollo.
+- State: Alpha 0.4.0 / In development
+- Estado: Alpha 0.4.0 / En desarrollo.
 
 ## Requisitos / Requirements
 
@@ -51,10 +51,11 @@ Añade 4 amuletos personalizados.
 	- Sinergias:
 		- Piedra de chamán: El daño de las habilidades se incrementa.
 		- Tuercehechizos: El coste de las habilidades se reduce.
-- Precio del ALMA. Aún no tiene efectos implementados.
+- Precio del ALMA. Permite gastar Geo para compensar el ALMA faltante al lanzar un hechizo.
 	- Sinergias planeadas:
 		- Codicia irrompible: El precio de los hechizos se reduce.
 		- Enjambre recolector: El tiempo de espera del amuleto se reduce.
+  		- Agijón y ALMA: Funciona con las Artes del aguijón potenciadas.
 
 EN:
 
@@ -74,10 +75,11 @@ Adds 4 custom charms.
 	- Synergies:
 		- Shaman Stone: Nail Arts damage is increased.
 		- Spell Twister: Nail Arts cost is reduced. 
-- Price of SOUL. No effects implemented yet.
+- Price of SOUL. Allows to spend Geo to cover the missing SOUL of a spell.
 	- Planned synergies:
 		- Unbreakable Greed: Spell prices reduced.
 		- Gathering Swarm: Charm cooldown reduced.
+		- Nail and SOUL: Works with the powered Nail Arts.
 
 ## Bugs conocidos / Known bugs
 
