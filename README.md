@@ -4,8 +4,8 @@ Mod in development that currently add 4 new charms to the Hollow Knight game.
 
 Mod en desarrollo que actualmente añade 4 amuletos nuevos al juego Hollow Knight.
 
-- State: Alpha 0.4.0 / In development
-- Estado: Alpha 0.4.0 / En desarrollo.
+- State: Alpha 0.4.1 / In development
+- Estado: Alpha 0.4.1 / En desarrollo.
 
 ## Requisitos / Requirements
 
