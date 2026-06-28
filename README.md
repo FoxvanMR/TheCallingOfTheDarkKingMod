@@ -87,12 +87,7 @@ ES:
 
 - General:
 	- El mod necesita optimizaciones.
-- Corazón de Darkyrita:
-	- A veces, al recibir un golpe con una hitbox poco duradera, hace que se necesite tocar una hitbox para activarse (El daño del siguiente golpe no se registra).
  
 EN:
 - General:
 	- Mod needs optimizations.
-- Darkyrite Heart:
-	- Sometimes, when hit with a short-lived hitbox, it causes to need to touch a hitbox to activate (The damage from the next hit is not registered).
-
