@@ -4,8 +4,8 @@ Mod de Hollow Knight en desarrollo que actualmente añade 4 amuletos nuevos y 3 
 
 Hollow Knight mod in development that currently adds 4 new charms and 3 new enemies with 2 testing rooms to try them.
 
-- State: Alpha 0.5.0 / In development
-- Estado: Alpha 0.5.0 / En desarrollo.
+- State: Alpha 0.5.1 / In development
+- Estado: Alpha 0.5.1 / En desarrollo.
 
 ## Requisitos / Requirements
 
