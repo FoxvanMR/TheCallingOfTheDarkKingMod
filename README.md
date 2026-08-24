@@ -1,11 +1,11 @@
 # The Calling of the Dark King Mod
 
-Mod de Hollow Knight en desarrollo que actualmente añade 4 amuletos nuevos y 3 enemigos nuevos con 2 salas de pruebas para testearlos.
+Mod de Hollow Knight en desarrollo que actualmente añade 4 amuletos nuevos y 7 enemigos nuevos con 2 salas de pruebas más un pequeño lobby para testearlos.
 
-Hollow Knight mod in development that currently adds 4 new charms and 3 new enemies with 2 testing rooms to try them.
+Hollow Knight mod in development that currently adds 4 new charms and 6 new enemies with 2 testing rooms plus a tiny lobby to try them.
 
-- State: Alpha 0.5.1 / In development
-- Estado: Alpha 0.5.1 / En desarrollo.
+- State: Alpha 0.6.0 / In development
+- Estado: Alpha 0.6.0 / En desarrollo.
 
 ## Requisitos / Requirements
 
@@ -58,13 +58,15 @@ Añade 4 amuletos nuevos.
 		- Enjambre recolector: El tiempo de espera del amuleto se reduce.
   		- Agijón y ALMA: Funciona con las Artes del aguijón potenciadas.
 
-Añade 3 enemigos nuevos.
+Añade 6 enemigos nuevos.
 
 - Gruzzer del Vacío:
 	- Tiene dos tipos: Base y estático.
 		- Base: Sigue el mismo patrón de movimiento que un Gruzzer del juego base.
 		- Estático: Se mueve ligeramente hacia arriba y hacia abajo en la misma posición.
 	- Al morir expulsa 4 púas que explotan si tocan al caballero o al entrorno o si el caballero las golpea.
+   		- Las púas de todos los Gruzzers pueden matar a otros Gruzzers activando una reacción en cadena.
+     	- También puedes recargar el salto si les haces un 'pogo'.
 - Gruzzer del Vacío inestable:
 	- Tiene dos tipos: Básico y estático.
 		- Base: Sigue el mismo patrón de movimiento que un Gruzzer del juego base.
@@ -76,7 +78,30 @@ Añade 3 enemigos nuevos.
 	- Tiene un área de detección que, si el caballero entra, empezará a escupir Gruzzers cada cierto tiempo con un 25% de que sea un Gruzzer Inestable.
 	- Al escupir 3 Gruzzers sin morir, la próxima vez, en vez de escupir uno, explotará y expulsará dos Gruzzers a la vez.
 	- Si el caballero lo mata no lanzará ninguno.
-- Las púas de todos los Gruzzers pueden matar a otros Gruzzers activando una reacción en cadena. También puedes recargar el salto si les haces un 'pogo'.
+- Trepasombras de Darkyrita:
+	- Se mueve un 25% más rápido que un Trepasombras del juego base.
+ 	- Tiene una pequeña área delante de él que si el caballero entra, hará que el Trepasombras de Darkyrita, después de una pequeña pausa, haga un esprint hacia el caballero.
+  	- Inflige dos máscaras de daño al chocarse contra él.
+- Cáscara oxidada alada:
+	- Se mueve ligeramente hacia arriba y hacia abajo en la misma posición.
+ 	- Tiene dos tipos de vida:
+  		- Vida acorazada: No puedes ganar ALMA al golpearle.
+    	- Vida vulnerable: Puedes ganar ALMA al golpearle.
+     	- Al romperle la coraza se quedará un tiempo vulnerable.
+      	- Si el caballero no lo mata a tiempo, recuperará la coraza completamente.
+	- Tiene un rango hacia abajo; si el caballero entra dejará caer una bomba de darkyrita.
+		- Esta explota al tocar al caballero, otros enemigos, el entorno o si el caballero la golpea.
+  		- Inflige dos máscaras de daño.
+    	- Al lanzarla entrará en un pequeño tiempo de espera.
+- Birrormiga de cueva:
+	- Va siguiendo un patrón de movimiento aleatório hasta llegar a un borde o chocarse con una plataforma.
+ 	- Inflige dos máscaras de daño al chocarse contra él.
+ 	- Al entrar en su zona de agresividad se activarán otras dos áreas:
+  		- Área pequeña: Si el caballero entra en esta, la Birrormiga intentará alejarse.
+    	- Área Grande: Si el caballero entra en esta, la Birrormiga intentará acercarse.
+     	- Área Central: La Birrormiga se quedará quieta.
+      	- Cada cierto tiempo lanza 8 proyectiles directos al caballero, 5 por detrás de ella y 3 por delante.
+      	- Si el caballero se aleja por mucho tiempo, volverá a su ciclo de movimiento aleatorio.
 
 EN:
 
@@ -102,13 +127,15 @@ Adds 4 new charms.
 		- Gathering Swarm: Charm cooldown reduced.
 		- Nail and SOUL: Works with the powered Nail Arts.
 
-Adds 3 new enemies.
+Adds 6 new enemies.
 
 - Void Gruzzer:
 	- It has two types: Base and Static.
 		- Base: Follows the same movement pattern as a base game Gruzzer.
 		- Static: Moves slightly up and down in the same position.
 	- Upon death, it ejects 4 spikes that explode if they touch the knight or the environment, or if the Knight hits them.
+ 		- The spikes of all Gruzzers can kill other Gruzzers by triggering a chain reaction.
+   		- You can also recharge the jump if you 'pogo' them.
 - Unstable Void Gruzzer:
 	- It has two types: Base and Static.
 		- Base: Follows the same movement pattern as a base game Gruzzer.
@@ -120,7 +147,30 @@ Adds 3 new enemies.
 	- It has a detection area that, if the knight enters, will begin to eject Gruzzers periodically, with a 25% chance of them being Unstable Gruzzers.
 	- If it launches 3 Gruzzers without dying, the next time instead of launching one, it will explode and eject two Gruzzers at once.
 	- If the Knight kills it, he will not launch any more.
-- The spikes of all Gruzzers can kill other Gruzzers by triggering a chain reaction. You can also recharge the jump if you 'pogo' them.
+- Darkyrite Creeper:
+	- It moves a 25% faster than a base game Creeper.
+ 	- It has a small area in front of it; if the Knight enters this area, the Darkyrite Creeper will, after a brief pause, sprint toward the knight.
+  	- Deals 2 mask of damage upon direct contact.
+- Rusted Wingmould:
+	- It moves slightly up and down in the same position.
+ 	- It has two types of health:
+  		- Armored Health: You cannot gain SOUL by hitting it.
+    	- Vulnerable Health: You can gain SOUL by hitting it.
+     	- Once its armor is broken, it will remain vulnerable for a time.
+      	- If the knight does not kill it in time, it will fully recover its armor.
+      	- It has a downward range; if the Knight enters, it will drop a Darkyrite bomb.
+      		- It explodes upon touching the Knight, other enemies, the environment, or if the knight strikes it.
+      	 	- Deals two mask of damage.
+      	  	- Upon casting it, it will enter a brief cooldown period.
+- Cave Antter:
+	- It follows a random movement pattern until it reaches an edge or collides with a platform.
+ 	- Deals 2 mask of damage upon direct contact.
+  	- Upon entering the aggression zone, two other areas will be activated:
+  		- Small area: If the knight enters this, the Antter will try to move away from him.
+  	 	- Large Area: If the knight enters this area, the Antter will try to approach him.
+  	  	- Central Area: The Antter will remain stationary.
+  	  	- Every so often, it fires 8 projectiles directly at the Knight: 5 from behind it and 3 from in front.
+  	  	- If the knight moves away for a long time, it will return to its random movement cycle.
 
 ## Comandos de desarrollador / Developer comands
 
