@@ -22,7 +22,7 @@ Extrae la carpeta TheCallingOfTheDarkKingMod dentro de:
 
 	Hollow Knight/hollow_knight_Data/Managed/Mods/ 
 	
-Si no existe, creala. Luego ejecuta el juego con Lumafly (Ejecutar con mods).
+Si no existe, créala. Luego ejecuta el juego con Lumafly (Ejecutar con mods).
 
 EN: 
 
