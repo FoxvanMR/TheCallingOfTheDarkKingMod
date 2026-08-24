@@ -101,7 +101,7 @@ Añade 6 enemigos nuevos.
     	- Área Grande: Si el caballero entra en esta, la Birrormiga intentará acercarse.
      	- Área Central: La Birrormiga se quedará quieta.
       	- Cada cierto tiempo lanza 8 proyectiles directos al caballero, 5 por detrás de ella y 3 por delante.
-      	- Si el caballero se aleja por mucho tiempo, volverá a su ciclo de movimiento aleatorio.
+      	- Si el caballero se aleja por mucho tiempo o se esconde, volverá a su ciclo de movimiento aleatorio.
 
 EN:
 
@@ -170,7 +170,7 @@ Adds 6 new enemies.
   	 	- Large Area: If the knight enters this area, the Antter will try to approach him.
   	  	- Central Area: The Antter will remain stationary.
   	  	- Every so often, it fires 8 projectiles directly at the Knight: 5 from behind it and 3 from in front.
-  	  	- If the knight moves away for a long time, it will return to its random movement cycle.
+  	  	- If the knight moves away for a long time or hides, it will return to its random movement cycle.
 
 ## Comandos de desarrollador / Developer comands
 
