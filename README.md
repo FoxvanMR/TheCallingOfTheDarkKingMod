@@ -42,7 +42,7 @@ Añade 4 amuletos nuevos.
 	- Sinergias:
 		- Combina con todos los amuletos que se activan al recibir daño.
 		- Sangrecolmena: El escudo dura lo suficiente para recibir la cura pasiva.
-		- Coraza de baldur: Al curarse con ambos escudos activos, el de este no recibe daño.
+		- Coraza de baldur: Al curarse con ambos escudos activos, el de Baldur no recibe daño.
 - Remanente infectado. Deja una pequeña sombra detrás del jugador y explota al cabo de un tiempo.
 	- Sinergias:
 		- Piedra de chamán: El daño y area de la sombra se incrementan.
@@ -111,7 +111,7 @@ Adds 4 new charms.
 	- Synergies:
 		- Combines with all charms that activate upon receiving redamage.
 		- Hiveblood: The shield lasts long enough to receive the passive heal.
-		- Baldur Shell: When healing with both shields active, this shield takes no damage.
+		- Baldur Shell: When healing with both shields active, the Baldur shield takes no damage.
 - Infected Remnant. Leaves a small shadow behind the player and explodes after a short time.
 	- Synergies:
 		- Shaman Stone: The shadow's damage and area are increased.
