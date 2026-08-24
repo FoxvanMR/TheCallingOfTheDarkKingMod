@@ -1,6 +1,6 @@
 # The Calling of the Dark King Mod
 
-Mod de Hollow Knight en desarrollo que actualmente añade 4 amuletos nuevos y 7 enemigos nuevos con 2 salas de pruebas más un pequeño lobby para testearlos.
+Mod de Hollow Knight en desarrollo que actualmente añade 4 amuletos nuevos y 6 enemigos nuevos con 2 salas de pruebas más un pequeño lobby para testearlos.
 
 Hollow Knight mod in development that currently adds 4 new charms and 6 new enemies with 2 testing rooms plus a tiny lobby to try them.
 
