@@ -62,7 +62,7 @@ Añade 6 enemigos nuevos:
 	- Tiene dos clases: Base y estático.
 		- Base: Sigue el mismo patrón de movimiento que un Gruzzer del juego base.
 		- Estático: Se mueve ligeramente hacia arriba y hacia abajo en la misma posición.
-	- Al morir expulsa 4 púas que explotan si tocan al caballero o al entorno o si el caballero las golpea.
+	- Al morir expulsa 4 púas que explotan si: tocan al caballero, otros enemigos, el entorno o si el caballero las golpea.
    		- Ls púas de todos los Gruzzers del Vacío pueden matar a otros Gruzzers del Vacío activando una reacción en cadena. 
      	- También puedes recargar el salto si les haces un 'pogo'.
 - Gruzzer del Vacío inestable:
@@ -71,7 +71,7 @@ Añade 6 enemigos nuevos:
 		- Estático: Se mueve ligeramente hacia arriba y hacia abajo en la misma posición.
 	- Tiene un área de detección que, si el caballero entra, activará su modo agresivo y no dejará de perseguirlo hasta que el Gruzzer del Vacío inestable muera o el caballero salga de la sala.
  	- Cada cierto tiempo dispara una púa explosiva en dirección al caballero si este se encuentra lo suficientemente cerca.
-	- Al morir, expulsa 4 púas y una de ellas siempre será en dirección al caballero, que explotan si tocan al caballero o al entorno o si el caballero las golpea.
+	- Al morir, expulsa 4 púas y una de ellas siempre será en dirección al caballero, que explotan si: tocan al caballero, otros enemigos, el entorno o si el caballero las golpea.
 - Saco de Gruzzers:
 	- Tiene un área de detección que, si el caballero entra, escupirá hasta 3 Gruzzers del Vacío cada cierto tiempo con una probabilidad de que sea un Gruzzer del Vacío inestable.
 	- Si expulsa los 3 Gruzzers del Vacío sin morir, la siguiente vez, en lugar de expulsar solo uno, explotará y lanzará dos Gruzzers del Vacío a la vez, con la posibilidad de que sean Gruzzers del Vacío inestables.
@@ -131,7 +131,7 @@ Adds 6 new enemies:
 	- It has two types: Base and Static.
 		- Base: Follows the same movement pattern as a base game Gruzzer.
 		- Static: Moves slightly up and down in the same position.
-	- Upon death, it ejects 4 spikes that explode if they touch the Knight or the environment, or if the Knight hits them.
+	- Upon death, it ejects 4 spikes that explode if: they touch the Knight, other entities, the environment, or if the Knight hits them.
  		- The spikes of all Gruzzers can kill other Gruzzers by triggering a chain reaction.
    		- You can also recharge the jump if you 'pogo' them.
 - Unstable Void Gruzzer:
@@ -140,7 +140,7 @@ Adds 6 new enemies:
 		- Static: Moves slightly up and down in the same position.
 	- It has a detection area that, if the Knight enters it, will activate its aggressive mode and will relentlessly pursue the knight until one of them dies.
 	- Every so often, it fires an explosive spike in the direction of the knight.
-	- Upon death, it ejects 4 spikes, one of which will always be aimed at the Knight. These spikes explode if they touch the knight or the environment, or if the Knight hits them.
+	- Upon death, it ejects 4 spikes, one of which will always be aimed at the Knight. These spikes explode if: they touch the Knight, other entities, the environment, or if the Knight hits them.
 - Gruzzer Sack:
 	- It has a detection area that, if the Knight enters, will begin to eject Void Gruzzers periodically, with a 25% chance of them being Unstable Void Gruzzers.
 	- If it spits out the 3 Void Gruzzers without dying, the next time, instead of spitting out just one, it will explode and eject two Void Gruzzers at once, with a chance that they will be Unstable Void Gruzzers.
