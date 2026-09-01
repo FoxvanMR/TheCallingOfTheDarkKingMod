@@ -4,8 +4,8 @@ Mod de Hollow Knight en desarrollo que actualmente añade 4 amuletos, 6 enemigos
 
 A Hollow Knight mod currently in development that adds 4 charms, 6 enemies, and 2 challenge rooms, plus a small lobby.
 
-- Estado: Alpha 0.6.1 / En desarrollo.
-- State: Alpha 0.6.1 / In development
+- Estado: Alpha 0.6.2 / En desarrollo.
+- State: Alpha 0.6.2 / In development
 
 ## Requisitos / Requirements
 
@@ -165,7 +165,7 @@ Adds 6 new enemies:
 	- It follows a random movement pattern until it reaches an edge or collides with a platform.
  	- Deals 2 mask of damage upon direct contact.
   	- Upon entering its detection area, two additional areas will be activated:
-  		- Small area: If the Knight enters this, the Antter will try to move away from him.
+  		- Small area: If the Knight enters this area, the Antter will try to move away from him.
   	 	- Large Area: If the Knight enters this area, the Antter will try to approach him.
   	  	- Central Area: The Antter will remain stationary.
   	  	- Every so often, it fires 8 projectiles directly at the Knight: 5 from behind it and 3 from its front.
