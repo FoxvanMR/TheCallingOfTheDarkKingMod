@@ -52,7 +52,7 @@ Añade 7 enemigos nuevos:
 	- Lanza púas explosivas en dirección al caballero, y al morir, explota y expulsa púas explosivas en 4 direcciones y una siempre hacia el caballero.
 - Saco de Gruzzers. Con el tiempo y a cierto rango, va expulsando "Gruzzers del Vacío" hasta morir por su cuenta o por el caballero.
 - Trepasombras de Darkyrita. Versión más rápida y agresiva de un "Trepasombras". Al estar a cierto rango, carga contra el caballero.
-- Cáscara oxidada alada. Suelta bombas de Darkyrita el estar debajo de ella.
+- Cáscara voladora oxidada. Suelta bombas de Darkyrita el estar debajo de ella.
 	- Se necesita quitarle la coraza antes de dañarla permanentemente, si no se consigue matarla, recuperará su coraza.
 - Birrormiga de cueva. Se mantiene siempre a una distancia prudencial del caballero y escupe proyectiles en su dirección.
 - Cáscara minera oxidada. Enemigo lento pero resistente.
