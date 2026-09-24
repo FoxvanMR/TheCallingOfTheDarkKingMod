@@ -41,76 +41,19 @@ ES:
 Añade 4 amuletos nuevos:
 
 - Corazón de Darkyrita. Tiene efecto de escudo salvavidas al estar a un golpe de la muerte.
-	- Sinergias:
-		- Canción de larvas y Espinas de agonía: Se activan al recibir daño incluso estando invencible.
-  		- Coraza de baldur: Si ambos escudos están activos, el de Darkyrita no recibirá daño y no descontará tiempo por golpe a su duración.
 - Remanente infectado. Deja una pequeña sombra detrás del jugador y explota al cabo de un tiempo.
-	- Sinergias:
-		- Piedra de chamán: El daño y el área de la sombra se incrementan.
-		- Sombra afilada: La sombra explota y se recarga antes.
-		- Blasón del defensor: La sombra al explotar deja un remanente que expulsa ondas de daño.
 - Aguijón y ALMA. Las Artes del aguijón consumen ALMA y potencian su daño.
-	- Sinergias:
-		- Piedra de chamán: El daño de las habilidades se incrementa.
-		- Tuercehechizos: El coste de las habilidades se reduce.
 - Precio del ALMA. Permite gastar Geo para lanzar un hechizo cuando no se tiene ALMA suficiente.
-	- Sinergias:
-		- Codicia irrompible: La conversión Geo - ALMA se reduce.
-		- Enjambre recolector: El tiempo de espera del amuleto se reduce.
-  		- Aguijón y ALMA: Funciona con las Artes del aguijón potenciadas.
 
 Añade 7 enemigos nuevos:
 
-- Gruzzer del Vacío:
-	- Tiene dos clases: Base y estático.
-		- Base: Sigue el mismo patrón de movimiento que un Gruzzer del juego base.
-		- Estático: Se mueve ligeramente hacia arriba y hacia abajo en la misma posición.
-	- Al morir expulsa 4 púas que explotan si: tocan al caballero, otros enemigos, el entorno o si el caballero las golpea.
-   		- Ls púas de todos los Gruzzers del Vacío pueden matar a otros Gruzzers del Vacío activando una reacción en cadena. 
-     	- También puedes recargar el salto si les haces un 'pogo'.
-- Gruzzer del Vacío inestable:
-	- Tiene dos clases: Básico y estático.
-		- Base: Sigue el mismo patrón de movimiento que un Gruzzer del juego base.
-		- Estático: Se mueve ligeramente hacia arriba y hacia abajo en la misma posición.
-	- Tiene un área de detección que, si el caballero entra, activará su modo agresivo y no dejará de perseguirlo hasta que el Gruzzer del Vacío inestable muera o el caballero salga de la sala.
- 	- Cada cierto tiempo dispara una púa explosiva en dirección al caballero si este se encuentra lo suficientemente cerca.
-	- Al morir, expulsa 4 púas y una de ellas siempre será en dirección al caballero, que explotan si: tocan al caballero, otros enemigos, el entorno o si el caballero las golpea.
-- Saco de Gruzzers:
-	- Tiene un área de detección que, si el caballero entra, escupirá hasta 3 Gruzzers del Vacío cada cierto tiempo con una probabilidad de que sea un Gruzzer del Vacío inestable.
-	- Si expulsa los 3 Gruzzers del Vacío sin morir, la siguiente vez, en lugar de expulsar solo uno, explotará y lanzará dos Gruzzers del Vacío a la vez, con la posibilidad de que sean Gruzzers del Vacío inestables.
-	- Si el caballero lo mata no lanzará ninguno.
-- Trepasombras de Darkyrita:
-	- Se mueve un poco más rápido que un Trepasombras del juego base.
- 	- Tiene una pequeña área delante de él que si el caballero entra, hará que el Trepasombras de Darkyrita, después de una pequeña pausa, haga un esprint hacia el caballero.
-  	- Inflige dos máscaras de daño al chocarse contra él.
-- Cáscara oxidada alada:
-	- Se mueve ligeramente hacia arriba y hacia abajo en la misma posición.
- 	- Tiene dos tipos de vida:
-  		- Vida acorazada: No puedes ganar ALMA al golpearle.
-    	- Vida vulnerable: Puedes ganar ALMA al golpearle.
-     	- Al romperle la coraza se quedará un tiempo vulnerable.
-      	- Si el caballero no lo mata a tiempo, recuperará la coraza completamente.
-	- Tiene un rango hacia abajo; si el caballero entra dejará caer una bomba de Darkyrita.
-		- Esta explota al tocar al caballero, otros enemigos, el entorno o si el caballero la golpea.
-  		- Inflige dos máscaras de daño.
-    	- Al lanzarla entrará en un pequeño tiempo de espera.
-- Birrormiga de cueva:
-	- Va siguiendo un patrón de movimiento aleatorio hasta llegar a un borde o chocarse con una plataforma.
- 	- Inflige dos máscaras de daño al chocarse contra ella.
- 	- Al entrar en su área de detección se activarán otras dos áreas adicionales:
-  		- Área pequeña: Si el caballero entra en esta, la Birrormiga intentará alejarse.
-    	- Área Grande: Si el caballero entra en esta, la Birrormiga intentará acercarse.
-     	- Área Central: La Birrormiga se quedará quieta.
-      	- Cada cierto tiempo lanza 8 proyectiles directos al caballero, 5 por detrás de ella y 3 por delante.
-      	- Si el caballero se aleja por mucho tiempo o se esconde, volverá a su ciclo de movimiento aleatorio.
-- Cáscara minera oxidada:
-	- Enemigo muy lento y pesado.
- 	- Tiene dos tipos de vida:
-  		- Vida acorazada: No puedes ganar ALMA al golpearle.
-    	- Vida vulnerable: Puedes ganar ALMA al golpearle.
-     	- Al romperle la coraza se quedará un tiempo vulnerable.
-      	- Si el caballero no lo mata a tiempo, recuperará la coraza completamente.
-	- Tiene varias zonas y, dependiendo de a cual vaya el caballero realizará un ataque u otro
+- Gruzzer del Vacío. Al morir, explota y expulsa púas explosivas en 4 direcciones.
+- Gruzzer del Vacío inestable. Lanza púas explosivas en dirección al caballero, y al morir, explota y expulsa púas explosivas en 4 direcciones y una siempre hacia el caballero.
+- Saco de Gruzzers. Con el tiempo y a cierto rango, va expulsando "Gruzzers del Vacío" hasta morir por su cuenta o por el caballero.
+- Trepasombras de Darkyrita. Versión más rápida y agresiva de un "Trepasombras". Al estar a cierto rango, carga contra el caballero.
+- Cáscara oxidada alada. Suelta bombas de Darkyrita el estar debajo de ella. Se necesita quitarle la coraza antes de dañarla permanentemente, si no se consigue matarla, recuperará su coraza.
+- Birrormiga de cueva. Se mantiene siempre a una distancia prudencial del caballero y escupe proyectiles en su dirección.
+- Cáscara minera oxidada. Enemigo lento pero resistente. Golpea con fuerza si se encuentra cerca, expulsar proyectiles pegajosos si se encuentra lejos y cubrirse de ataques que vengan por arriba. Se necesita quitarle la armadura antes de dañarla permanentemente, si no se consigue matarla, recuperará su armadura.
 
 EN:
 
