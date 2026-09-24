@@ -3,11 +3,11 @@
 - Estado: Alpha 0.6.3 / En desarrollo.
 - State: Alpha 0.6.3 / In development
 
-Mod de Hollow Knight que actualmente añade 4 amuletos, 7 enemigos y 2 salas de pruebas, más un pequeño lobby.
-A Hollow Knight mod that currently adds 4 charms, 7 enemies, and 2 challenge rooms, plus a small lobby.
+- Mod de Hollow Knight que actualmente añade 4 amuletos, 7 enemigos y 2 salas de pruebas, más un pequeño lobby.
+- A Hollow Knight mod that currently adds 4 charms, 7 enemies, and 2 challenge rooms, plus a small lobby.
 
-La información detallada de todas las características del mod se encuentra en /TheCallingOfTheDarkKingMod/Mod_Info/.
-Detailed information on all the mod's features can be found in /TheCallingOfTheDarkKingMod/Mod_Info/.
+- La información detallada de todas las características del mod se encuentra en /TheCallingOfTheDarkKingMod/Mod_Info/.
+- Detailed information on all the mod's features can be found in /TheCallingOfTheDarkKingMod/Mod_Info/.
 
 ## Requisitos / Requirements
 
