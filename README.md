@@ -1,11 +1,13 @@
 # The Calling of the Dark King mod
 
-Mod de Hollow Knight en desarrollo que actualmente añade 4 amuletos, 6 enemigos y 2 salas de pruebas, más un pequeño lobby.
+- Estado: Alpha 0.6.3 / En desarrollo.
+- State: Alpha 0.6.3 / In development
 
-A Hollow Knight mod currently in development that adds 4 charms, 6 enemies, and 2 challenge rooms, plus a small lobby.
+Mod de Hollow Knight que actualmente añade 4 amuletos, 7 enemigos y 2 salas de pruebas, más un pequeño lobby.
+A Hollow Knight mod that currently adds 4 charms, 7 enemies, and 2 challenge rooms, plus a small lobby.
 
-- Estado: Alpha 0.6.2 / En desarrollo.
-- State: Alpha 0.6.2 / In development
+La información detallada de todas las características del mod se encuentra en \TheCallingOfTheDarkKingMod\Mod_Info\.
+Detailed information on all the mod's features can be found in \TheCallingOfTheDarkKingMod\Mod_Info\.
 
 ## Requisitos / Requirements
 
@@ -57,7 +59,7 @@ Añade 4 amuletos nuevos:
 		- Enjambre recolector: El tiempo de espera del amuleto se reduce.
   		- Aguijón y ALMA: Funciona con las Artes del aguijón potenciadas.
 
-Añade 6 enemigos nuevos:
+Añade 7 enemigos nuevos:
 
 - Gruzzer del Vacío:
 	- Tiene dos clases: Base y estático.
@@ -101,6 +103,14 @@ Añade 6 enemigos nuevos:
      	- Área Central: La Birrormiga se quedará quieta.
       	- Cada cierto tiempo lanza 8 proyectiles directos al caballero, 5 por detrás de ella y 3 por delante.
       	- Si el caballero se aleja por mucho tiempo o se esconde, volverá a su ciclo de movimiento aleatorio.
+- Cáscara minera oxidada:
+	- Enemigo muy lento y pesado.
+ 	- Tiene dos tipos de vida:
+  		- Vida acorazada: No puedes ganar ALMA al golpearle.
+    	- Vida vulnerable: Puedes ganar ALMA al golpearle.
+     	- Al romperle la coraza se quedará un tiempo vulnerable.
+      	- Si el caballero no lo mata a tiempo, recuperará la coraza completamente.
+	- Tiene varias zonas y, dependiendo de a cual vaya el caballero realizará un ataque u otro
 
 EN:
 
