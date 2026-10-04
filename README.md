@@ -99,8 +99,8 @@ EN:
 ES:
 
 - General:
-	- El mod necesita optimizaciones en cuanto a consumo de espacio.
+	- El mod necesita optimizaciones.
  
 EN:
 - General:
-	- The mod needs optimizations in terms of space consumption.
+	- The mod needs optimization.
